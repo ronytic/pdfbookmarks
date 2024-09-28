@@ -1,0 +1,20 @@
+BookmarkBegin
+BookmarkTitle: Cover
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+
+BookmarkBegin
+BookmarkTitle: PDF 1
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+
+BookmarkBegin
+BookmarkTitle: PDF 2
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+
+BookmarkBegin
+BookmarkTitle: PDF 3
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+
